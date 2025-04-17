@@ -15,7 +15,7 @@ Dabei soll idealerweise eine Sammlung an Definitionen, Algorithmen, Sätzen und
 werden.
 
 Eine kompilierte Version der Lösungen kann auf der
-[Website](https://fsi-la-inf.github.io/stex.stuff) dieses Repositories gefunden
+[Website](https://fsi-la-mint.github.io/stex.stuff) dieses Repositories gefunden
 werden.
 
 ## Contributing
